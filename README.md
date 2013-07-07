@@ -1,4 +1,0 @@
-antheamorenoresumerepos
-=======================
-
-Repository for resume~
