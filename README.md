@@ -1,4 +1,4 @@
-antheamorenoresumerepos
+Resume Website Project
 =======================
 
-Repository for resume~
+Repository for website
